@@ -1,3 +1,4 @@
+
 ###### Requirements without Version Specifiers ######
 toast-cmb
 mpi4py
@@ -19,7 +20,7 @@ ipympl
 pandas
 tables
 pysqlite3
-pymaster
+#pymaster
 camb
 joblib
 lru_cache
